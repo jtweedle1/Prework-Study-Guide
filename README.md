@@ -6,15 +6,6 @@ My motivation for this project was to take a metaphorical leap of faith into the
 
 I built this project to learn and understand Git (version control), HTML (the backbone), CSS (styling), and JavaScript (logic and interactivity). It also allows me to store some of the key notes that were learned from each lesson, so it was practical and functional! It solves the problem of not having an organized space to story important notes from the Prework for Northwestern's coding bootcamp.
 
-## Table of Contents (Optional)
-
-If your README is long, add a table of contents to make it easy for users to find what they need.
-
-- [Installation](#installation)
-- [Usage](#usage)
-- [Credits](#credits)
-- [License](#license)
-
 ## Installation
 
 1. Make sure that you have the following programs installed: web browser, VS Code, Git Bash or Mac equivalent.
